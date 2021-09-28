@@ -1,6 +1,6 @@
 ---
 title: "Estatística Aplicada em Agronomia utilizando o Software R"
-author: "Juliana Moraes Machado de Oliveira e Milene Venancio Soré"
+author: "Juliana Moraes Machado de Oliveira, Milene Venancio Soré, Nicole e Guilherme"
 output: 
  html_document:
     toc: true
