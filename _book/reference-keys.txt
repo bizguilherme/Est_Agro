@@ -1,11 +1,6 @@
 fig:nice-fig
 tab:nice-tab
 eq:binom
-about
-usage
-render-book
-preview-book
-prefácio
 introdução-à-estatística
 definição
 aplicabilidade-da-estatística-nas-ciências-agrárias---cópia-editar-dps
